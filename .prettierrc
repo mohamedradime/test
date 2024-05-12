@@ -1,0 +1,14 @@
+{
+    "printWidth": 140,
+    "tabWidth": 4,
+    "tabs": false,
+    "semicolons": true,
+    "singleQuote": false,
+    "jsxSingleQuote": false,
+    "trailingComma": "es5",
+    "bracketSpacing": true,
+    "bracketSameLine": false,
+    "arrowParens": "always",
+    "vueIndentScriptAndStyle": false,
+    "endOfLine": "lf"
+}
